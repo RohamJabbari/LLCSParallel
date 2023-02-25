@@ -1,7 +1,7 @@
 # LLCSParallel
 This code is written in C. 
 
-Four different implementations of LLCS function.
+Four different implementations of LLCS function. (located in implementation.h)
 
 
 Serial version: normal implementation.
