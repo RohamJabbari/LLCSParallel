@@ -1,4 +1,6 @@
 # LLCSParallel
+Length of the Longest Common Subsequence using OpenMP
+
 This code is written in C. 
 
 Four different implementations of LLCS function. (located in implementation.h)
